@@ -8,7 +8,7 @@ O projeto do curso é um protótipo de um sistema de motor para funcionar no pro
 <b>Sistema do Motor:</b>
 <img src="projeto_motor_grua.jpg">
 <br><br>
-<b>Código do sistema do Motor:</b>
+<b>Código em blocos do sistema do Motor:</b>
 <img src="projeto_motor_grua_código.jpg">
 <br><br>
-<b>O código está aqui: </b> <a href="projeto_motor_grua1.ino">Clique aqui</a>
+<b>O código está aqui:</b> <a href="projeto_motor_grua1.ino">Clique aqui</a>
