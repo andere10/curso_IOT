@@ -13,5 +13,5 @@ O projeto do curso é um protótipo de um sistema de motor para funcionar no pro
 <br><br>
 <b>Código em blocos do sistema:</b>
 <img src="projeto_motor_grua_código.jpg">
-<br><br>
+<br>
 <b>O código está aqui:</b> <a href="projeto_motor_grua1.ino">Clique aqui</a>
